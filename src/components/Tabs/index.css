@@ -1,0 +1,21 @@
+.tab-item-con {
+  margin-right: 30px;
+  list-style: none;
+  list-style-type: none;
+}
+.active-tab-btn {
+  background-color: #db1c48;
+  color: #fff;
+  border-radius: 15px;
+  cursor: pointer;
+  padding: 4px 10px;
+  border: none;
+}
+.tab-btn {
+  border-color: #db1c48;
+  color: #db1c48;
+  background-color: transparent;
+  border-radius: 15px;
+  cursor: pointer;
+  padding: 4px 10px;
+}
